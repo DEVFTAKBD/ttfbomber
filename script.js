@@ -3,7 +3,7 @@ let limits;
 function call() {
     // Uncomment following line to get phone number
     // let number = document.getElementById('phone').value;
-    let api = "https://api.bd.airtel.com/v1/account/forgot-password/otp";
+    let api = "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone=";
 
     limits = document.querySelector(".limits").value;
 
